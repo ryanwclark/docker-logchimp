@@ -1,4 +1,4 @@
-FROM ryanwclark/nginx:latest
+FROM ryanwclark/nginx:debian-latest
 LABEL maintainer="Ryan Clark (ryanwclark@yahoo.com)"
 
 ENV LOGCHIMP_VERSION=master \
