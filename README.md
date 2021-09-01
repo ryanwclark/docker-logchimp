@@ -12,10 +12,6 @@ This will build a container for [logchimp](https://logchimp.io/) - An open sourc
 
 [Changelog](CHANGELOG.md)
 
-## Authors
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 - [hub.docker.com/r/ryanwclark/logchimp](#hubdockercomrryanwclarklogchimp)
